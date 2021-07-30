@@ -8,7 +8,9 @@
   
   This is an Express.js API that provides an E-Commerce database. When the API's are prompted in Mysql a user can accsss categories, products, or tags database. A user can also POST, PUT, and DELETE objects in this database with Mysql, as the database is listed in JSON.
   
-  ## Table of Content
+https://user-images.githubusercontent.com/84646398/127612799-4b54c908-8c76-4619-b71b-bc8a725520fd.mp4
+
+## Table of Content
   
   [Installation Instructions](#installation-instructions)  
   [Usage Information](#usage-information)  
